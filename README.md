@@ -65,15 +65,19 @@ and H2O. He has published several research papers in top-ranked journals/confere
 focusing on bioinformatics and deep learning.
 
 
-## Other books by the authors
+## Other books by the author
 * [Predictive Analytics with TensorFlow](https://www.packtpub.com/big-data-and-business-intelligence/predictive-analytics-tensorflow)
 * [Deep Learning with TensorFlow - Second Edition](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-tensorflow-second-edition)
 * [Scala and Spark for Big Data Analytics](https://www.packtpub.com/big-data-and-business-intelligence/scala-and-spark-big-data-analytics)
 * [Scala Machine Learning Projects](https://www.packtpub.com/big-data-and-business-intelligence/scala-machine-learning-projects)
 * [Practical Convolutional Neural Networks](https://www.packtpub.com/big-data-and-business-intelligence/practical-convolutional-neural-networks)
 * [Large Scale Machine Learning with Spark](https://www.packtpub.com/big-data-and-business-intelligence/large-scale-machine-learning-spark)
+* [TensorFlow: Powerful Predictive Analytics with TensorFlow](https://www.packtpub.com/big-data-and-business-intelligence/tensorflow-powerful-predictive-analytics-tensorflow)
+* [Deep Learning with TensorFlow](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-tensorflow)
+
+## Other video courses by the author
+* [Practical Convolutional Neural Networks [Video]](https://www.packtpub.com/big-data-and-business-intelligence/practical-convolutional-neural-networks-video)
+* [Predictive Analytics with TensorFlow [Video]](https://www.packtpub.com/big-data-and-business-intelligence/predictive-analytics-tensorflow-video)
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
-
-
