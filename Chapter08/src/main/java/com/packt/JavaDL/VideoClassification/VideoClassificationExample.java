@@ -48,7 +48,7 @@ public class VideoClassificationExample {
 	private static int NUM_EXAMPLE = 10;
 	
     public static void main(String[] args) throws Exception {        
-        String dataDirectory = "C:/Users/admin-karim/Desktop/VideoData/UCF101_MP4/";// Paths.get("data", "UCF-101-mp4").toAbsolutePath().toString();
+        String dataDirectory = "/VideoData/UCF101_MP4/";// Paths.get("data", "UCF-101-mp4").toAbsolutePath().toString();
         UCF101Reader reader = new UCF101Reader(dataDirectory); 
         NUM_CLASSES = reader.labelMap().size();        
         
